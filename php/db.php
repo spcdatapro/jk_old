@@ -6,7 +6,7 @@ class dbcpm{
     private $dbUser = 'root';
     private $dbPass = 'PoChoco2016';
     //private $dbPass = 'Solon_06';
-    private $dbSchema = 'sayet';
+    private $dbSchema = 'jakes';
     //private $dbSchema = 'sayetprod';
 
     private $dbConn;
